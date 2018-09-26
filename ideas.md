@@ -1,6 +1,6 @@
 # Ideas
 
-This is a file to record ideas for book content. 
+This is a file to record ideas for book content (very preliminary at this point). 
 
 - biopysical environemnt
   - climate 
