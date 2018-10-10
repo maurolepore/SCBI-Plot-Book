@@ -2,6 +2,15 @@
 
 This is a file to record ideas for book content (very preliminary at this point). 
 
+- introduction
+- methods
+  - field methods: describe site specifics, multistesm issues, person-hours.
+  - data management:
+      - Double entry efford, volunteer force: XXX hours
+      - Data review before being entered. We invested xx of hrs to check xxxxx records and cough XXX of errors
+      - Data quality assessment: In-house curation before submitting to CTFS
+      - Regular data backup, requested backups from central data manager, wrote R script for quick DQA 
+ 
 - pysical environemnt
   - climate 
   - topography
