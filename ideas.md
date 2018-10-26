@@ -4,7 +4,8 @@ This is a file to record ideas for book content (very preliminary at this point)
 
 - introduction
 - methods
-  - field methods: describe site specifics, multistesm issues, person-hours.
+  - field methods: describe site specifics, multistesm issues, person-hours. Include here challenges in thefield (i.e. wiring multistems) and suggestions to improve (survey planing, where to start- i.e. denser areas, etc)
+  
   - data management:
       - Double data entry efforts, volunteer force: XXX hours (cite data managment CTFS guide)
       - Data review before being entered. We invested xx of hrs to check xxxxx records and cough XXX of errors
