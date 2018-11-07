@@ -24,6 +24,7 @@ This is a file to record ideas for book content (very preliminary at this point)
   - age distribution from cores
   - climate sensitivity from cores ("quilt" showing multiple climate variables)
   - mortality rates through time & drivers of mortality
+  - contributions to biomass and ANPP
 - biotic drivers of change (anthropogenic)
   - invasive plants
   - deer
