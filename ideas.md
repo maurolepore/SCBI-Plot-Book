@@ -6,7 +6,7 @@ More or less this is will be the chapter organization
 - ### Chapter 1. Introduction
   -History of plot, Ian ideas..
   
-- ### Chapter 2. Pysical environemnt
+- ### Chapter 2. Pysical environment
   - climate (expand and update graph published in mortality paper)
   - topography (three dimensional map of plot, maybe Ian can build in GIS or find a script)
   - soils (Check Shen et al. 2016 for what they publish on soil at SCBI)
@@ -39,7 +39,7 @@ More or less this is will be the chapter organization
   - invasive plants (see Shen et al 2016, we are expanding on her data, she used 2009,10 and 11 I think). Caroline Kittle to lead the chapter.
   - invasive pests & pathogens: use Shenandoah paper info, expand upon it
   - deer impact on plant ecology (this will be mostly mcShea existing work, maybe we can include simple analysis in/out exclusure?)
-- carbon cycling: Teixeira to expand, use carbon calultor??
+- carbon cycling: Teixeira to expand, use carbon calculator??
 
 Others ideas:
 - Plant phylogeny (GENBank data)
