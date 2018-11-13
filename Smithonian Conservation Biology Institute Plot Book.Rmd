@@ -1,0 +1,63 @@
+---
+title: "Smithsonian Conservation Biology Institute: Plot Book"
+author: "Kristina Anderson-Teixeira, Erika Gonzalez-Akre, Stuart Davies, William McShea, Alyssa Terrell, Michael Scott, Caroline Kittle, Ian McGregor"
+date: "2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Chapter 1: Introduction
+
+This part of the document will introducing the plot. This part should include a history of the plot.
+
+# Chapter 2: Physical Environment
+
+This part of the document will be describing the research site. This part should include climate (include graph used in mortality paper), topography (graphs created by Ian), and soil information
+
+# Chapter 3: Methods
+
+For now, this section should only discuss the methods that were used in regards to the five-year recensus and its data management.
+
+# Chapter 4: Tree Species
+### Latin Name (Common Name)
+```
+Life history (information will be added by Michael)
+```
+```
+Leaf traits (written about or scanned and labeled)
+```
+```
+Annual Recruitment and Mortality
+# of trees (stems) in 2013 and 2018:
+5-year mortality of trees (stems):
+new tree recuitment:
+max DBH in sample:
+mean DBH in sample:
+```
+```
+Graph of recruiment and mortality
+{r echo=false}
+hist()
+```
+```
+Graph of species range and distribution
+```
+```
+Graph of species range and distribution within the plot (plot location)
+```
+Picture of tree cores (with a small blurb)
+
+# Chapter 5: Biotic Drivers of Change
+### Invasive Plants
+(insert Caroline's information here - should include description/life history, native range, range in US, spread in pot, and data from the Shenandoah paper)
+
+### Invasive Species and Pathogens
+(expand on data found in Shenandoah paper)
+
+### Impact of Deer and Plant Ecology
+(Bill's section)
+
+# Chapter 6: Carbon Cycling
+(take it away Krista!)
