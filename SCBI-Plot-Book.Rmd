@@ -11,16 +11,39 @@ knitr::opts_chunk$set(echo = TRUE)
 # Chapter 1: Introduction
 In 1974, the Smithsonian purchased a piece of land, known as the Remound Depot. Shortly after the purchase, the land became the Conservation Research Center.
 
+- TALK ABOUT HOW IMPORTANT, INFLUENTIAL, AND DETRIMENTAL MORTALITY IS
+- bring up how detrimental it is now so that you can bring it up later in chapter 5
+
+Pull information from Gonzalez-Akre et al. 2016
+
+Stovall et al. 2018:
+- forests make up 45% of terretrial carbon (Bonan 2008)
+
 # Chapter 2: Physical Environment
 
 This part of the document will be describing the research site. This part should include climate (include graph used in mortality paper), topography (graphs created by Ian), and soil information
 
-# Chapter 3: Methods
+Give credit to Bourg et al. 2013:
+- 25.6 hectacres (640m x 400m)
+- woody stem census
+- temperate deciduous forest located in Front Royal, VA, USA
+- measured and recruited all stems ≥1cm DBH
+- recruitment includes tagging and identification of stems
 
-For now, this section should only discuss the methods that were used in regards to the five-year recensus and its data management.
+Gonzalez-Akre et al. 2016:
+elevation = 273-338m
+
+# Chapter 3: Methods
+This survey was conducted in the Center for Tropical Forest Science-Forest Global Earth Observatory's (CTFS-ForestGEO) dynamic forest plot. The plot, itself, is located at the Smithsonian Conservation Biology Institute in Front Royal, Virginia, USA. SCBI is 3.1 miles (5 kilometers) from the Shenandoah National Park and roughly 80 miles (~130 kilometers) from the Smithsonian National Zoological Park.
+
+Gonzalez-Akre et al. 2016 and Condit 1998:
+- methods set by the Center for Tropical Forest Science - Forest Global Earth Observatory
+
+Gonzalez-Akre et al. 2016:
+- Dead stems are considered to be dead due to the following criteria: (1) stems that are broken below DBH; (2) loosened or detached bark; (3) lack of development in regards to flower or leaf buds and; (4) signs of pests or pathogens such as fungus and insects.
 
 # Chapter 4: Tree Species
-### Latin Name (Common Name)
+## Latin Name (Common Name)
 ```
 Life history (information will be added by Michael)
 ```
@@ -49,13 +72,13 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 # Chapter 5: Biotic Drivers of Change
-### Invasive Plants
+## Invasive Plants
 (insert Caroline's information here - should include description/life history, native range, range in US, spread in pot, and data from the Shenandoah paper)
 
-### Invasive Species and Pathogens
+## Invasive Species and Pathogens
 (expand on data found in Shenandoah paper)
 
-### Impact of Deer and Plant Ecology
+## Impact of Deer and Plant Ecology
 (Bill's section)
 
 # Chapter 6: Carbon Cycling
