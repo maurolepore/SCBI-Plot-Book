@@ -1,0 +1,14 @@
+---
+title: "SCBI: Plot Book"
+author: "Kristina Anderson-Teixeira, Erika Gonzalez-Akre, Stuart Davies, William McShea, Alyssa Terrell, Michael Scott, Caroline Kittle, Ian McGregor"
+date: "2018"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: SCBI-ForestGEO/SCBI-Plot-Book
+url: 'http\://SCBI-ForestGEO/SCBI-Plot-Book'
+description: "An overview of SCBI's research plot."
+cover-image:
+---
