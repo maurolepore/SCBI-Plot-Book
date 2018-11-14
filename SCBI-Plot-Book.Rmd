@@ -1,5 +1,5 @@
 ---
-title: "Smithsonian Conservation Biology Institute: Plot Book"
+title: "SCBI: Plot Book"
 author: "Kristina Anderson-Teixeira, Erika Gonzalez-Akre, Stuart Davies, William McShea, Alyssa Terrell, Michael Scott, Caroline Kittle, Ian McGregor"
 date: "2018"
 output: html_document
@@ -9,8 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Chapter 1: Introduction
-
-This part of the document will introducing the plot. This part should include a history of the plot.
+In 1974, the Smithsonian purchased a piece of land, known as the Remound Depot. Shortly after the purchase, the land became the Conservation Research Center.
 
 # Chapter 2: Physical Environment
 
