@@ -11,32 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 # Chapter 1: Introduction
 In 1974, the Smithsonian purchased a piece of land, known as the Remound Depot. Shortly after the purchase, the land became the Conservation Research Center.
 
-- TALK ABOUT HOW IMPORTANT, INFLUENTIAL, AND DETRIMENTAL MORTALITY IS
-- bring up how detrimental it is now so that you can bring it up later in chapter 5
+One of the most important causes of forest dynamics is mortality (Gonzalez-Akre 2016). Mortality can influence the number and distribution of woody species that are found in an area. It can also be detrimental because tree mortality can be used as an indication of climate change (Gonzalez-Akre 2016).
 
-Pull information from Gonzalez-Akre et al. 2016
-
-Stovall et al. 2018:
-- forests make up 45% of terrestrial carbon (Bonan 2008)
+Forests make up 45% of terrestrial carbon (Bonan 2008 and Stovall et al. 2018)
   - The amount of carbon held in by trees can have a negative impact due to the emissions that are released into the air caused by deforestation.
 
-
 # Chapter 2: Physical Environment
+The dynamic plot is located at the Smithsonian Conservation Biology Institute (SCBI) in Virginia, USA (38°53'36.6"N, 78°08'43.4"W) with the elevation ranging from 273m to 338m (Gozalez-Akre et al. 2016). The research site is a temperate deciduous forest within a 25.6-hectare plot set up 640m by 400m (Bourg et al. 2013).
 
 This part of the document will be describing the research site. This part should include climate (include graph used in mortality paper), topography (graphs created by Ian), and soil information
-
-Give credit to Bourg et al. 2013:
-- 25.6 hectacres (640m x 400m)
-- woody stem census
-- temperate deciduous forest located in Front Royal, VA, USA
-- measured and recruited all stems "\<= 1"cm DBH
-- recruitment includes tagging and identification of stems
-
-Gonzalez-Akre et al. 2016:
-- elevation = 273-338m
-
-Ramage et al. 2017:
-- location of SCBI is 38?53'36.6"N, 78?08'43.4"W
 
 **I think it would be beneficial to include figure 2 from Stovall et al. 2018**
 "The top 10 domintant species contributing over 80% of biomass within the ForestGEO forest as estimated using the Chonjnacky et al. (2014) equations."
@@ -54,6 +37,9 @@ Gonzalez-Akre et al. 2016:
 Ramage et al. 2017:
 - 4 hectares of the plot is fenced in to keep out *Odocoileus virginianus (white-tailed deer) - area will further be refered to as the deer exclosure
 
+Give credit to Bourg et al. 2013:
+- measured and recruited all stems "\???1"cm DBH
+- recruitment includes tagging and identification of stems
 
 # Chapter 4: Tree Species
 For life history, mention common canopy positions
