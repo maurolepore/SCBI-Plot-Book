@@ -9,15 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Chapter 1: Introduction
-In 1974, the Smithsonian purchased a piece of land, known as the Remound Depot. Shortly after the purchase, the land became the Conservation Research Center.
+Forests make up 45% of terrestrial carbon (Bonan 2008 and Stovall et al. 2018). The amount of carbon held in by trees can have a negative impact due to the emissions that are released into the air caused by deforestation. The rise in carbon emissions is attributed to the rise in tree mortality.
 
-One of the most important causes of forest dynamics is mortality (Gonzalez-Akre 2016). Mortality can influence the number and distribution of woody species that are found in an area. It can also be detrimental because tree mortality can be used as an indication of climate change (Gonzalez-Akre 2016).
+Mortality is one of the most important causes of forest dynamics (Gonzalez-Akre et al. 2016), as it can influnce the number and distribution of woody species that are found in an area. It can also be detrimental because tree mortality can be used as an indication of climate change (Gonzalez-Akre 2016).
 
-Forests make up 45% of terrestrial carbon (Bonan 2008 and Stovall et al. 2018)
-  - The amount of carbon held in by trees can have a negative impact due to the emissions that are released into the air caused by deforestation.
+
+In 1974, the Smithsonian purchased a piece of land, known as the Remount Depot. Shortly after the purchase, the land became the Conservation Research Center.The Front Royal site of the National Zoological Park is ~1,296 hectares (3,500 acres) and combined with research and academic facilities, forestry, pastures, and animal enclosures (ASK ERIKA OR KRISTA HOW TO CITE THE CULTURAL RESOUCE ASSESSMENT - Ayers et al. 2007).
+
 
 # Chapter 2: Physical Environment
-The dynamic plot is located at the Smithsonian Conservation Biology Institute (SCBI) in Virginia, USA (38°53'36.6"N, 78°08'43.4"W) with the elevation ranging from 273m to 338m (Gozalez-Akre et al. 2016). The research site is a temperate deciduous forest within a 25.6-hectare plot set up 640m by 400m (Bourg et al. 2013).
+The dynamic plot is located at the Smithsonian Conservation Biology Institute (SCBI) in Virginia, U.S.A (38°53'36.6"N, 78°08'43.4"W) with the elevation ranging from 273m to 338m (Gozalez-Akre et al. 2016). The research site is a temperate deciduous forest within a 25.6-hectare plot set up 640m by 400m (Bourg et al. 2013).
 
 This part of the document will be describing the research site. This part should include climate (include graph used in mortality paper), topography (graphs created by Ian), and soil information
 
@@ -40,6 +41,8 @@ Ramage et al. 2017:
 Give credit to Bourg et al. 2013:
 - measured and recruited all stems "\???1"cm DBH
 - recruitment includes tagging and identification of stems
+
+The research was conducted by a team of interns under the labs of William McShea, Ph.D and Kristina Anderson-Teixeira, Ph.D. On average, 3.3 people/day participated in the census with 3.7 field days/week. A single person logged an average of 29 hours/week, resulting in 97 hours/week being done. Roughly 3,200 total amount of work hours - including data collection, review, entry, and analysis - was completed.
 
 # Chapter 4: Tree Species
 For life history, mention common canopy positions
