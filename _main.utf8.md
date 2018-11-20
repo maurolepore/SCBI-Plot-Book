@@ -11,3 +11,20 @@ github-repo: SCBI-ForestGEO/SCBI-Plot-Book
 url: 'http\://SCBI-ForestGEO/SCBI-Plot-Book/'
 description: "An overview of SCBI's research plot."
 ---
+
+<!--chapter:end:index.Rmd-->
+
+
+# Introduction
+
+Placeholder
+
+
+
+<!--chapter:end:chapter-1-introduction.Rmd-->
+
+
+
+
+<!--chapter:end:chapter-2-physical-environment.Rmd-->
+

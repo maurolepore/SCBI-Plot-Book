@@ -1,7 +1,7 @@
-book_filename: "plotbook.pdf"
-chapter_name: "Chapter "
+book_filename: "plotbook"
+chapter_name: "Chapter"
 repo: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
-output_dir: docs
-rmd_files: ["index.Rmd", "Introduction.Rmd", "Physical Environment.Rmd", "Methods.Rmd", "Tree Species.Rmd", "Biotic Drivers of Change.Rmd", "Carbon Cycling.Rmd"]
+output_dir: C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/html_docs
+rmd_files: ["index.Rmd", "chapter-1-introduction.Rmd", "chapter-2-physical-environment.Rmd"]
 clean: [packages.bib, bookdown.bbl]
-new_session: no
+new_session: yes
