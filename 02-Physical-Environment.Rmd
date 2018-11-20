@@ -6,3 +6,11 @@ This part of the document will be describing the research site. This part should
 
 **I think it would be beneficial to include figure 2 from Stovall et al. 2018**
 "The top 10 domintant species contributing over 80% of biomass within the ForestGEO forest as estimated using the Chonjnacky et al. (2014) equations."
+
+
+From [Teixeira et al 2013](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.12712)
+Elevation: 273-338masl, topographic relief of 65m (in Teixiera et al, citation of Bourg et al 2013)
+Soils: Alfisols
+Dominant veg: Broadleaf cold deciduous
+Size: 25.6 ha
+Climate: MAT=12.9C, MAP=1001mm/yr, Cfa (humid suptropical/midlatitude with significant precipitation year-round, main natural disturbance = wind/ice storms
