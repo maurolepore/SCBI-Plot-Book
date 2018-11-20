@@ -9,6 +9,7 @@ This part of the document will be describing the research site. This part should
 
 
 From [Teixeira et al 2013](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.12712)
+
 Elevation: 273-338masl, topographic relief of 65m (in Teixiera et al, citation of Bourg et al 2013)
 
 Soils: Alfisols
