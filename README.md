@@ -41,21 +41,17 @@ The first, and easiest way, is via the "Knit" function.
 
 5. When you want to update the chapter (**or, view a preview of what the chapter will look like online**), select "Knit". This will simultaneously save the .Rmd file and update your chapter's html file as well. A blank window will pop up, then select "Open in Browser."
 
-6. Running the Knit function will apply the same code as below in Step 7 with the same outputs. The difference is that Knit will automatically open a prompt to view the updated file, but it will only update the specific chapter you're working on.
+6. Running the Knit function will apply the same code as below in Step 7 with the same outputs. The differences are that Knit will automatically open a prompt to view the updated file, *and* it will only update the specific chapter you're working on.
 
-### Updating your chapter and the whole book
+### Updating the whole book (including your new chapter)
 
 The second way of updating is by putting together all the elements of the book and updating them all at once (called rendering).
 
-7. In R, install the bookdown package and set working directory to be the github local path.
-   
-       
-
-8. Now, run the command to put the book together (known as "rendering").
+7. Run the following command to put the book together (known as "rendering").
 
        bookdown::render_book("index.Rmd")
 
-9. Your ouput will look something like this:
+8. Your ouput will look something like this:
 
        processing file: _main.Rmd
         |.................................................................| 100%
@@ -70,11 +66,11 @@ The second way of updating is by putting together all the elements of the book a
        In split_chapters(output, gitbook_page, number_sections, split_by,  :
           You have 7 Rmd input file(s) but only 6 first-level heading(s). Did you forget first-level headings in certain Rmd files?
 
-10. The important part is "Output created." This means the html files have been updated and are in the \_book folder. The warning message refers to the lack of a header (H1 #) in the index.Rmd. This is fine.
+9. The important part is "Output created." This means the html files have been updated and are in the \_book folder. The warning message refers to the lack of a header (H1 #) in the index.Rmd. This is fine.
 
-11. From your local Github folder on your computer, you can now open the html file associated with your edited chapter and review how it looks.
+10. From your local Github folder on your computer, you can now open the html file associated with your edited chapter and review how it looks.
 
-12. When finished, please remember to commit and push back to Github. When pushing after doing the rendering command, you'll notice there are several changed files that have a .css, .js, and .json extensions. These refer to the elements of the web visualization and as such are necessary to be pushed as well.
+11. When finished, please remember to commit and push back to Github. When pushing after doing the rendering command, you'll notice there are several changed files that have a .css, .js, and .json extensions. These refer to the elements of the web visualization and as such are necessary to be pushed as well.
 
 ## Resources
 
