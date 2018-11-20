@@ -1,8 +1,0 @@
-# Physical Environment
-
-The dynamic plot is located at the Smithsonian Conservation Biology Institute (SCBI) in Virginia, U.S.A (38°53'36.6"N, 78°08'43.4"W) with the elevation ranging from 273m to 338m (Gozalez-Akre et al. 2016). The research site is a temperate deciduous forest within a 25.6-hectare plot set up 640m by 400m (Bourg et al. 2013).
-
-This part of the document will be describing the research site. This part should include climate (include graph used in mortality paper), topography (graphs created by Ian), and soil information
-
-**I think it would be beneficial to include figure 2 from Stovall et al. 2018**
-"The top 10 domintant species contributing over 80% of biomass within the ForestGEO forest as estimated using the Chonjnacky et al. (2014) equations."
