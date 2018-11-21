@@ -4,7 +4,7 @@ For life history, mention common canopy positions
     - dominant canopy are *Liriondendron tulipifera* (tulip poplar), *Carya* spp., *Quercus* spp., *Fraxinus americana* (white ash), *Nyssa sylvatica* (black gum)
 
 ##Adoxaceae
-### *Sambucus canadensis*	(American black elderberry)
+### *Sambucus canadensis* (L.) R. Bolli ```American black elderberry```
 ```
 Life history (information will be added by Michael)
 ```
@@ -32,7 +32,7 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-### *Viburnum acerifolium*	(Mapleleaf viburnum)
+### *Viburnum acerifolium* L. ```Mapleleaf viburnum```
 ```
 Life history (information will be added by Michael)
 ```
@@ -60,7 +60,7 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-###	*Viburnum prunifolium*	(Black haw)
+###	*Viburnum prunifolium* L. ```Black haw```
 ```
 Life history (information will be added by Michael)
 ```
@@ -88,9 +88,10 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-###	*Viburnum recognitum*	(Southern arrowood)
+###	*Viburnum recognitum* Fernald ```Southern arrow-wood```
 ```
 Life history (information will be added by Michael)
+***also known as *Virburnum dentatum* L.***
 ```
 ```
 Leaf traits (written about or scanned and labeled)
@@ -117,7 +118,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Annonaceae
-### *Asimina triloba*	(Pawpaw)
+### *Asimina triloba*	(L.) Dunal ```Pawpaw```
 ```
 Life history (information will be added by Michael)
 ```
@@ -146,7 +147,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ##Aquifoliaceae
-### *Ilex verticillata* (Common winterberry)
+### *Ilex verticillata* (L.) A. Gray ```Common winterberry```
 ```
 Life history (information will be added by Michael)
 ```
@@ -175,7 +176,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ##Berberidaceae
-### *Berberis thunbergii* (Japanese barberry)
+### *Berberis thunbergii* DC. ```Japanese barberry```
 ```
 Life history (information will be added by Michael)
 ```
@@ -204,7 +205,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Betulaceae
-### *Carpinus caroliniana*	(American hornbeam)
+### *Carpinus caroliniana* Walt. ```American hornbeam```
 ```
 Life history (information will be added by Michael)
 ```
@@ -232,7 +233,7 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-###	*Corylus americana*	(American hazelnut)
+###	*Corylus americana*	Walt. ```American hazelnut```
 ```
 Life history (information will be added by Michael)
 ```
@@ -261,7 +262,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Cannabaceae
-### *Celtis occidentalis*	(Hackberry)
+### *Celtis occidentalis*	L. ```Hackberry```
 ```
 Life history (information will be added by Michael)
 ```
@@ -290,36 +291,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Caprifoliaceae
-### *Lonicera maackii* (Bush honeysuckle)
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
-```
-Graph of species range and distribution
-```
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
-
-## Celastraceae
-### *Euonymus alatus*	(Burning bush)
+### *Lonicera maackii* (Rupr.) Maxim ```Bush honeysuckle```
 ```
 Life history (information will be added by Michael)
 ```
@@ -348,7 +320,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Cornaceae
-### *Cornus alternifolia*	(Alternate leaf dogwood)
+### *Cornus alternifolia*	L. f. ```Alternate leaf dogwood```
 ```
 Life history (information will be added by Michael)
 ```
@@ -377,7 +349,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Cornaceae
-### *Cornus florida*	(Flowering dogwood)
+### *Cornus florida* L. ```Flowering dogwood```
 ```
 Life history (information will be added by Michael)
 ```
@@ -406,7 +378,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Ebenaceae
-### *Diospyros virginiana* (Persimmon)
+### *Diospyros virginiana* L. ```Persimmon```
 ```
 Life history (information will be added by Michael)
 ```
@@ -435,7 +407,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Elaeagnaceae
-### *Elaeagnus umbellata*	(Autumn olive)
+### *Elaeagnus umbellata*	Thunb. ```Autumn olive```
 ```
 Life history (information will be added by Michael)
 ```
@@ -464,7 +436,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Fabaceae
-### *Cercis canadensis* (Eastern redbud)
+### *Cercis canadensis* L. ```Eastern redbud```
 ```
 Life history (information will be added by Michael)
 ```
@@ -493,7 +465,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Fabaceae
-### *Robinia pseudoacacia* (Black locust)
+### *Robinia pseudoacacia* L. ```Black locust```
 ```
 Life history (information will be added by Michael)
 ```
@@ -522,7 +494,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ## Fagaceae
-### *Castanea dentata* (American chestnut)
+### *Castanea dentata* (Marsh.) Borkh. ```American chestnut```
 ```
 Life history (information will be added by Michael)
 ```
@@ -550,7 +522,7 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-### *Fagus grandifolia*	(American beech)
+### *Fagus grandifolia*	Ehrh. ```American beech```
 ```
 Life history (information will be added by Michael)
 ```
@@ -578,7 +550,7 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-### *Quercus alba*	(White oak)
+### *Quercus alba* L. ```White oak```
 ```
 Life history (information will be added by Michael)
 ```
