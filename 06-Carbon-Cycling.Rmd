@@ -1,2 +1,10 @@
 # Carbon Cycling
-(take it away Krista!)
+
+from core census-- all of the following, for whole forest and by size/ species, potentially in and out of deer exclosure
+- biomass
+- ANPP_stem (and potentially its climate sensitivity, from cores)
+- woody mortality 
+
+other data
+- litter production?
+- anything from NEON?
