@@ -6,6 +6,7 @@ site: bookdown::bookdown_site
 documentclass: book
 ouput: html_document
 bibliography: "book.bib"
+pandoc_args: [ "--csl", "apa_pl.csl" ]
 biblio-style: "apalike"
 link-citations: true
 github-repo: SCBI-ForestGEO/SCBI-Plot-Book
