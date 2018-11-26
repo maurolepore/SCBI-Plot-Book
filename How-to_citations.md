@@ -17,7 +17,7 @@ Citations are can be made in two ways. The easier way is via Zotero.
 
 4. Review the fields to make sure data is correct. Please remove abstract if automatically populated.
 
-5. When done adding citations, select all your items in the collection and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
+5. When done adding citations, order them by "Creator". Select all your items in the collection and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
 
 6. Save the file as **book.bib** and overwrite existing one.
 
@@ -57,6 +57,12 @@ If Zotero isn't working, citations can also be made manually. To do this, open t
 `Stovall, Atticus E. L., Kristina J. Anderson-Teixeira, and Herman H. Shugart. 2018. “Assessing Terrestrial Laser Scanning for Developing Non-Destructive Biomass Allometry.” Forest Ecology and Management 427 (November): 217–29. doi:10.1016/j.foreco.2018.06.004.`
 
 - Helpfully, the year automatically links to the full appended reference.
+
+### Reference Order
+
+References in each chapter are ordered by appearance in the text.
+
+References for the whole book (in the final book chapter) are ordered alphabetically by author.
 
 ### References for how to make a citation:
 
