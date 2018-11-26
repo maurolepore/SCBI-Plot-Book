@@ -20,6 +20,7 @@ Citations are can be made in two ways. The easier way is via Zotero.
 5. When done adding citations, order them by "Creator". Select all your items in the collection, right click, and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
 
 6. Save the file as **book.bib** and overwrite existing one.
+- When looking to see if the file has been saved, the name of the file may show up as 'book.'
 
 7. If you want to see how Bookdown views the file, open book.bib in RStudio. The file will now have your citation looking like this:
 
