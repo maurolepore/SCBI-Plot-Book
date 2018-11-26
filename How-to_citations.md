@@ -11,19 +11,19 @@ Citations are can be made in two ways. The easier way is via Zotero.
 2. Open the book.bib file (from your local path) in Zotero.
 - Zotero will open and you will get a prompt that asks if you want to import the file. Make sure "Import into new collection" is checked and click Ok.
 - **Important**: Because Zotero automatically saves reference lists you make, you must import to a new collection every time you open, and only work out of that collection. Zotero will say you have duplicates, but that's because it's saving your first list you opened, and it doesn't automatically udpate from Github.
-- If it helps, once you've imported to a new collection, you can just delete the old collection to avoid confusion when you're working.
+- Once you've imported to a new collection, you can just delete the old collection to avoid confusion when you're working.
 
 3. Add a citation either from the plug-in (super easy, just click on the icon when you're on the article or web page you wish to cite) or via manual entry.
 
 4. Review the fields to make sure data is correct. Please remove abstract if automatically populated.
 
-5. When done adding citations, click *File* and then *Export Library*. Change format to *BibTex* and make sure *Export Notes* is checked.
+5. When done adding citations, select all your items in the collection and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
 
 6. Save the file as **book.bib** and overwrite existing one.
 
 7. If you want to see how Bookdown views the file, open book.bib in RStudio. The file will now have your citation looking like this:
 
-       @article{Stovall2018,
+       @article{stovall_assessing_2018,
          title = {Assessing terrestrial laser scanning for developing non-destructive biomass allometry},
 	        volume = {427},
 	        issn = {0378-1127},
@@ -48,9 +48,9 @@ If Zotero isn't working, citations can also be made manually. To do this, open t
 
 ## Cite the citation in-text
 
-8. In the citation above, the relevant part for in-text citing is the very first part of the code. Above the `title` is a character string called the "citation key". You can edit this in RStudio if you want. This is the text you write to tell Bookdown to generate a citation.
+8. In the citation above, the relevant part for in-text citing is the very first part of the code. Above the `title` is a character string called the "citation key". This is the text you write to tell Bookdown to generate a citation.
 
-9. For example, there is a sentence from this article: "Trees are good." To cite this article, I use \[@citation key] (see the [markdown] link below for other variations]. In the .Rmd file, I would write `Trees are good [@Stovall2018].` When the book is knit or rendered, Bookdown automatically converts this to:
+9. For example, there is a sentence from this article: "Trees are good." To cite this article, I use \[@citation key] (see the [markdown] link below for other variations]. In the .Rmd file, I would write `Trees are good [@stovall_assessing_2018].` When the book is knit or rendered, Bookdown automatically converts this to:
 
 `Trees are good (Stovall, Anderson-Teixeira, and Shugart 2018).` with the following reference appended to the text:
 
