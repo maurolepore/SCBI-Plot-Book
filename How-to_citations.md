@@ -58,8 +58,6 @@ If Zotero isn't working, citations can also be made manually. To do this, open t
 
 - Helpfully, the year automatically links to the full appended reference.
 
-10. An idea is we want to convert this to a single reference page for the whole book as opposed to individual chapters. According to [Yihui] below, citations will only be done in-chapter due to us using LaTex output.
-
 ### References for how to make a citation:
 
 Exporting from Zotero: [UniMelbourne](http://unimelb.libguides.com/c.php?g=565734&p=3897111)
