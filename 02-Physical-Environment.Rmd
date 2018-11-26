@@ -6,13 +6,18 @@ Do we want to include the following?
 
 The SCBI site is within a region encompassing the northern section of the Blue Ridge Mountains and is a continuation of the Appalachian Mountain range. Shenandoah National Park (elevation range ~171 to ~1,234 masl) [(National Park Service)](https://www.nps.gov/shen/learn/management/statistics.htm) lies directly to the southwest while smaller hills (of which the site is comprised) extend to the northwest. To the east of the site, the smaller hills give way to the lower Piedmont region, while in the west, they give way to the Shenandoah Valley under the Massanutten Mountains. Because part of the site is situated within a small valley and most storms approach from the west and southwest, the site is relatively sheltered.
 
-![*Map of SCBI site relative to regional topography. Elevation labels in the grid are in masl.*](maps/plot_location_regional.jpg)
+![*Map of SCBI site relative to regional topography. Elevation labels in the grid are in masl.*](maps_and_figures/plot_location_regional.jpg)
 
 
 
+Other things to potentially include in this chapter:
 
-**I think it would be beneficial to include figure 2 from Stovall et al. 2018**
-"The top 10 domintant species contributing over 80% of biomass within the ForestGEO forest as estimated using the Chonjnacky et al. (2014) equations."
+- write (or find?) code to make graph as this one in [Stovall et al 2018](https://www.sciencedirect.com/science/article/pii/S0378112718304663) ![*sample graph of biomass by species*](maps_and_figures/sample_biomass_graph.PNG)
 
+- climate data from NEON to explain biomass?
+
+- any other data from NEON?
+
+- are we including an overview of dendrobands anywhere (not this chapter)?
 
 [Teixeira et al. 2015](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.12712)
