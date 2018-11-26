@@ -4,9 +4,9 @@ author: "Kristina Anderson-Teixeira, Erika Gonzalez-Akre, Stuart Davies, William
 date: "2018"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
-link-citations: yes
+bibliography: ["book.bib"]
+biblio-style: "apalike"
+link-citations: true
 github-repo: SCBI-ForestGEO/SCBI-Plot-Book
 url: 'http\://SCBI-ForestGEO/SCBI-Plot-Book/'
 description: "An overview of SCBI's research plot."

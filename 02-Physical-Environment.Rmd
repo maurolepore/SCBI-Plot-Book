@@ -12,7 +12,7 @@ The SCBI site is within a region encompassing the northern section of the Blue R
 
 Other things to potentially include in this chapter:
 
-- write (or find?) code to make graph as this one in [Stovall et al 2018](https://www.sciencedirect.com/science/article/pii/S0378112718304663) ![*sample graph of biomass by species*](maps_and_figures/sample_biomass_graph.PNG)
+- write (or find?) code to make graph as this one in [@Stovall2018] ![*sample graph of biomass by species*](maps_and_figures/sample_biomass_graph.PNG)
 
 - climate data from NEON to explain biomass?
 
