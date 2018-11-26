@@ -17,7 +17,7 @@ Citations are can be made in two ways. The easier way is via Zotero.
 
 4. Review the fields to make sure data is correct. Please remove abstract if automatically populated.
 
-5. When done adding citations, order them by "Creator". Select all your items in the collection and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
+5. When done adding citations, order them by "Creator". Select all your items in the collection, right click, and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
 
 6. Save the file as **book.bib** and overwrite existing one.
 
