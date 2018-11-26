@@ -48,9 +48,9 @@ If Zotero isn't working, citations can also be made manually. To do this, open t
 
 ## Cite the citation in-text
 
-8. In the citation above, the relevant part for in-text citing is the very first part of the code. Above the `title` is a character string called the "citation id". You can edit this in RStudio if you want. This is the text you write to tell Bookdown to generate a citation.
+8. In the citation above, the relevant part for in-text citing is the very first part of the code. Above the `title` is a character string called the "citation key". You can edit this in RStudio if you want. This is the text you write to tell Bookdown to generate a citation.
 
-9. For example, there is a sentence from this article: "Trees are good." To cite this article, I use \[@citation id] (see the [markdown] link below for other variations]. In the .Rmd file, I would write `Trees are good [@Stovall2018].` When the book is knit or rendered, Bookdown automatically converts this to:
+9. For example, there is a sentence from this article: "Trees are good." To cite this article, I use \[@citation key] (see the [markdown] link below for other variations]. In the .Rmd file, I would write `Trees are good [@Stovall2018].` When the book is knit or rendered, Bookdown automatically converts this to:
 
 `Trees are good (Stovall, Anderson-Teixeira, and Shugart 2018).` with the following reference appended to the text:
 
@@ -58,7 +58,7 @@ If Zotero isn't working, citations can also be made manually. To do this, open t
 
 - Helpfully, the year automatically links to the full appended reference.
 
-10. Eventually we want to convert this to a single reference page for the whole book as opposed to individual chapters, but this is a good start.
+10. An idea is we want to convert this to a single reference page for the whole book as opposed to individual chapters. According to [Yihui] below, citations will only be done in-chapter due to us using LaTex output.
 
 ### References for how to make a citation:
 
