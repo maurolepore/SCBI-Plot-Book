@@ -1,4 +1,4 @@
----
+# ---
 title: "SCBI: Plot Book"
 author: "Kristina Anderson-Teixeira, Erika Gonzalez-Akre, Stuart Davies, William McShea, Alyssa Terrell, Michael Scott, Caroline Kittle, Ian McGregor"
 date: "2018"
