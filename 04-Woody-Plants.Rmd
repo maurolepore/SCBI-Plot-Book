@@ -1429,9 +1429,10 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-### *Crataegus pruniosa*	(Waxyfruit hawthorn)
+### *Crataegus pruinosa* (Wendl. f.) K. Koch var. pruinosa	```Waxyfruit hawthorn```
 ```
 Life history (information will be added by Michael)
+**Second common name is Frosted Hawthorn.**
 ```
 ```
 Leaf traits (written about or scanned and labeled)
