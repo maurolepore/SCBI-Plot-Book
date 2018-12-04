@@ -6,6 +6,7 @@ from core census-- all of the following, for whole forest and by size/ species, 
 
 - ANPP_stem (and potentially its climate sensitivity, from cores)
 - woody mortality 
+- downed woody debris
 
 other data
 - litter production?
