@@ -15,3 +15,5 @@ site: bookdown::bookdown_site
 biblio-style: "apa"
 url: http\://SCBI-ForestGEO/SCBI-Plot-Book/
 ---
+
+```This book is still in the process of being written. If there are any suggestions, get in contact with [GitHub](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/issues/new).```
